@@ -1,1 +1,1 @@
-Saolving one of my tasks from DevOps course for conteiners and clouds
+Solving one of my tasks from DevOps course for conteiners and clouds
